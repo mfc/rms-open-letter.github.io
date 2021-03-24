@@ -404,7 +404,6 @@ Signed,
 - Jamie Gaskins
 - Jane Manchun Wong
 - Jani "zment" Kärkkäinen
-- Jannis Leidel (aka "jezdez", Fellow and Director, Python Software Foundation; former Director, Django Software Foundation; Django project alumnus; Software Engineer, Mozilla; founder, PyPA; founder, Jazzband)
 - Jan Lehnardt (Apache CouchDB PMC Chair)
 - Jan Sprinz (UBports Foundation Board of Directors, Ubuntu Member)
 - Jason Barbier
@@ -511,7 +510,6 @@ Signed,
 - Khionu Sybiern
 - Khosrow Moossavi
 - Kimball Johnson (Former Chair FLOSS UK aka UKUUG)
-- Kris Buytaert
 - Krzysztof Sakrejda
 - Kukuh Syafaat (GNOME, openSUSE)
 - Kumar Anirudha
@@ -606,6 +604,7 @@ Signed,
 - Micah Anderson
 - Micah E Scott
 - Michael Bikovitsky
+- Michael Carbone (Qubes OS)
 - Michael Downey (United Nations Foundation)
 - Michael Gat
 - Michael Hoffmann
